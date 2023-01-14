@@ -8,6 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 <h1>Atrisyia</h1>
 <h2>Atrisyia</h2>
+https://github.com/eisyaaaa/learn-github/
 
 # Research Colloquium Series 1: Best practices' for using the cloud in research
 You will learn:
